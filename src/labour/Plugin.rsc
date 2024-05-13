@@ -22,7 +22,7 @@ bool checkWellformedness(loc fil) {
 
 /*
 * This is the main function of the project. This function enables the editor's syntax highlighting.
-* After calling this function from the terminal, all files with extension .concl will be parsed using the parser defined in module concl::Parser.
+* After calling this function from the terminal, all files with extension .labour will be parsed using the parser defined in module labour::Parser.
 * If there are syntactic errors in the program, no highlighting will be shown in the editor.
 */
 void main() {
